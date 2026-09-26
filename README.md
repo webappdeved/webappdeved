@@ -1,6 +1,6 @@
-# PROF. YORK | Docente de Programación & Desarrollo de Software
+# PROF. YORK | Docente de Programación & Software Developer
 
-Bienvenido/a a mi espacio de GitHub. Este repositorio funciona como punto central para el acceso a proyectos de cátedra, guías de trabajos prácticos y recursos técnicos para estudiantes y desarrolladores.
+Bienvenido/a a mi espacio de GitHub. Este perfil funciona como punto central para el acceso a proyectos de cátedra, guías de trabajos prácticos, recursos de capacitación y desarrollos de software.
 
 ---
 
@@ -9,8 +9,8 @@ Bienvenido/a a mi espacio de GitHub. Este repositorio funciona como punto centra
 Para la entrega de actividades, proyectos finales e informes técnicos en las materias a cargo, se deben respetar de manera estricta las siguientes pautas institucionales:
 
 ### 🛠️ Control de Versiones (Git & GitHub)
-- **Flujo de trabajo obligatoria:** Utilizar ramas `main` (código estable de producción) y `development` (desarrollo e integración de características).
-- **Commits:** Mensajes claros, descriptivos y en tiempo presente (ej: `feat: agrega validacion de punteros en modulo C++`).
+- **Flujo de trabajo obligatorio:** Utilizar ramas `main` (código estable de producción) y `development` (desarrollo e integración de características).
+- **Commits:** Mensajes claros, descriptivos y en tiempo presente siguiendo *Conventional Commits* (ej: `feat: agrega validacion de punteros en modulo C++`).
 - **Commits limpios:** No subir archivos temporales, binarios compilados (`.exe`, `.o`, `.out`) o carpetas de configuración del IDE (`.vscode`, `node_modules`). Incluir siempre `.gitignore`.
 
 ### 📄 Entregables Documentales (Informes Técnicos)
@@ -20,20 +20,20 @@ Para la entrega de actividades, proyectos finales e informes técnicos en las ma
 
 ---
 
-## 💻 Tech Stack & Herramientas de Cátedra
+## 💻 Tech Stack & Herramientas
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes:** | C / C++, Python, PHP, C#, JavaScript, SQL |
-| **Desarrollo Web & DB:** | HTML5, CSS3, WordPress ($wpdb), MySQL / MariaDB |
-| **Herramientas & IDEs:** | VS Code, Git / GitHub, Lucidchart |
+| **Lenguajes:** | C / C++, Python, PHP, JavaScript, SQL |
+| **Desarrollo Web & DB:** | HTML5, CSS3, Node.js, WordPress ($wpdb), MySQL / MariaDB |
+| **Herramientas & IDEs:** | VS Code, Git / GitHub, Linux, Lucidchart |
 | **Despliegue & Entornos:** | Vercel, Netlify, Moodle, Google Classroom |
 
 ---
 
 ## 📚 Repositorios y Ejercitación
 
-En este perfil encontrarás repositorios categorizados para el cursado:
+En este perfil encontrarás repositorios categorizados para el cursado y consulta:
 
 - 🔹 **Punteros y Memoria:** Estructuras en C/C++, manipulación de cadenas y punteros (`CADENASPUNTEROS`).
 - 🔹 **Algoritmos Base:** Operaciones matemáticas, estructuras de control y lógica pura (`CALCULADORAEDAD`, `CALCULOAREA`).
@@ -41,10 +41,13 @@ En este perfil encontrarás repositorios categorizados para el cursado:
 
 ---
 
-## 📬 Contacto Institucional
+## 💼 Capacitaciones & Desarrollo Freelance
 
-- **Email:** webapplicationsdevelopmentde@gmail.com
-- **Lugar de cursada:** EEST - Buenos AiresAires  ' Argentina
+Además del ámbito educativo formal, realizo capacitaciones técnicas para empresas y desarrollo de soluciones de software a medida.
+
+- 🛠️ **Servicios:** Capacitaciones en código limpio, arquitectura de software, talleres de Git/GitHub y desarrollo web/backend.
+- 📩 **Contacto Profesional e Institucional:** webapplicationsdevelopmentde@gmail.com
+- 📍 **Ubicación:** Buenos Aires, Argentina
 
 ---
-> *Clean code, buenas prácticas y arquitectura antes que solo líneas de código.*repositorios clave (Pinned Repositories):** Cuando crees repositorios de guías principales o plantillas base para las actividades, ve a tu perfil principal, selecciona **Customize your pins** y fijalos para que se vean al frente de tu perfil.
+> *Clean code, buenas prácticas y arquitectura antes que solo líneas de código.*
