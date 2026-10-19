@@ -35,8 +35,8 @@ Para la entrega de actividades, proyectos finales e informes técnicos en las ma
 
 En este perfil encontrarás repositorios categorizados para el cursado y consulta:
 
-- 🔹 **Punteros y Memoria:** Estructuras en C/C++, manipulación de cadenas y punteros (`CADENASPUNTEROS`).
-- 🔹 **Algoritmos Base:** Operaciones matemáticas, estructuras de control y lógica pura (`CALCULADORAEDAD`, `CALCULOAREA`).
+- 🔹 **Punteros y Memoria:** Estructuras en C/C++, manipulación de cadenas y punteros (`cadenaspunteros`).
+- 🔹 **Algoritmos Base:** Operaciones matemáticas, estructuras de control y lógica pura (`calculadoraedad`, `calculoarea`).
 - 🔹 **Proyectos Web & Sistemas:** Estructura modular, bases de datos y desarrollo backend/frontend.
 
 ---
