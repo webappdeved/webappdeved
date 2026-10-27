@@ -8,15 +8,40 @@ Bienvenido/a a mi espacio de GitHub. Este perfil funciona como punto central par
 
 Para la entrega de actividades, proyectos finales e informes técnicos en las materias a cargo, se deben respetar de manera estricta las siguientes pautas institucionales:
 
-### 🛠️ Control de Versiones (Git & GitHub)
+## 🛠️ Control de Versiones (Git & GitHub)
 - **Flujo de trabajo obligatorio:** Utilizar ramas `main` (código estable de producción) y `development` (desarrollo e integración de características).
 - **Commits:** Mensajes claros, descriptivos y en tiempo presente siguiendo *Conventional Commits* (ej: `feat: agrega validacion de punteros en modulo C++`).
 - **Commits limpios:** No subir archivos temporales, binarios compilados (`.exe`, `.o`, `.out`) o carpetas de configuración del IDE (`.vscode`, `node_modules`). Incluir siempre `.gitignore`.
 
-### 📄 Entregables Documentales (Informes Técnicos)
+## 📄 Entregables Documentales (Informes Técnicos)
 - **Formato:** Todo trabajo escrito o documentación técnica debe entregarse bajo estándar **Informe APA v7**.
 - **Estructura:** Debe incluir únicamente el formato de Informe APA v7 con sus correspondientes citas parentéticas y la carátula integrada correctamente según las pautas de cátedra.
 - **Formato de archivo:** PDF o exportación limpia desde Markdown/LaTeX.
+
+---
+
+## 💻 Estructura Obligatoria del Repositorio de Entrega
+Para los proyectos finales y entregas de código puro, los repositorios de los estudiantes deben respetar la siguiente arquitectura de directorios estándar de la industria:
+
+```text
+nombre-del-proyecto-final/
+│
+├── src/                # (Source) Todo el código fuente de la aplicación (archivos .cpp, .py)
+├── include/            # (Sólo para C/C++) Archivos de cabecera (.h, .hpp)
+├── docs/               # Documentación, el informe APA v7 en PDF solicitado, manual del programador, manual de usuario
+│   ├── InformeEESTX_LPR20XX_GXX_v2.0.0.pdf 
+│   └── manuales/
+│       ├── manual_programador_v1.0.0.pdf 
+│       └── manual_usuario_v1.0.0.pdf
+├── assets/             # Imágenes, íconos, bases de datos SQL de prueba
+├── test/               # Scripts para probar el código
+│
+├── .gitignore          # Archivo para ignorar compilados (.exe, .o) y basura del IDE
+├── .gitattributes      # Archivo de adición para normalizar saltos de línea (CRLF/LF)
+├── CHANGELOG.md        # Historial de versiones (Mejor en la raíz, no dentro de docs)
+├── README.md           # Presentación del proyecto y guía de instalación
+└── LICENSE             # Licencia del proyecto (MIT, GPL)
+```
 
 ---
 
