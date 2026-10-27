@@ -24,10 +24,10 @@ Para la entrega de actividades, proyectos finales e informes técnicos en las ma
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes:** | C / C++, Python, PHP, JavaScript, SQL |
-| **Desarrollo Web & DB:** | HTML5, CSS3, Node.js, WordPress ($wpdb), MySQL / MariaDB |
-| **Herramientas & IDEs:** | VS Code, Git / GitHub, Linux, Lucidchart |
-| **Despliegue & Entornos:** | Vercel, Netlify, Moodle, Google Classroom |
+| **💻 Lenguajes:** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **🌐 Desarrollo Web & DB:** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
+| **🛠️ Herramientas & IDEs:** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Lucidchart](https://img.shields.io/badge/Lucidchart-F8991D?style=for-the-badge&logo=lucid&logoColor=white) |
+| **🚀 Despliegue & Entornos:** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white) ![Google Classroom](https://img.shields.io/badge/Google_Classroom-008F68?style=for-the-badge&logo=google%20classroom&logoColor=white) |
 
 ---
 
@@ -46,8 +46,15 @@ En este perfil encontrarás repositorios categorizados para el cursado y consult
 Además del ámbito educativo formal, realizo capacitaciones técnicas para empresas y desarrollo de soluciones de software a medida.
 
 - 🛠️ **Servicios:** Capacitaciones en código limpio, arquitectura de software, talleres de Git/GitHub y desarrollo web/backend.
-- 📩 **Contacto Profesional e Institucional:** webapplicationsdevelopmentde@gmail.com
+- 📩 **Contacto Profesional e Institucional:** [![Email](https://img.shields.io/badge/Gmail-webapplicationsdevelopmentde@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webapplicationsdevelopmentde@gmail.com)
 - 📍 **Ubicación:** Buenos Aires, Argentina
 
 ---
 > *Clean code, buenas prácticas y arquitectura antes que solo líneas de código.*
+
+## 📊 Mis Estadísticas Docentes y de Desarrollo
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webappdeved&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de Prof. York" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webappdeved&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Lenguajes más usados" />
+</div>
