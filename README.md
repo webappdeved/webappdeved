@@ -46,7 +46,8 @@ En este perfil encontrarás repositorios categorizados para el cursado y consult
 Además del ámbito educativo formal, realizo capacitaciones técnicas para empresas y desarrollo de soluciones de software a medida.
 
 - 🛠️ **Servicios:** Capacitaciones en código limpio, arquitectura de software, talleres de Git/GitHub y desarrollo web/backend.
-- 📩 **Contacto Profesional e Institucional:** [![Email](https://img.shields.io/badge/Gmail-webapplicationsdevelopmentde@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webapplicationsdevelopmentde@gmail.com)
+- 📩 **Contacto Profesional e Institucional:**
+- [![Email](https://img.shields.io/badge/Gmail-webapplicationsdevelopmentde@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webapplicationsdevelopmentde@gmail.com)
 - 📍 **Ubicación:** Buenos Aires, Argentina
 
 ---
