@@ -76,6 +76,7 @@ Además del ámbito educativo formal, realizo capacitaciones técnicas para empr
 - 📍 **Ubicación:** Buenos Aires, Argentina
 
 ---
+
 > *Clean code, buenas prácticas y arquitectura antes que solo líneas de código.*
 
 ## 📊 Mis Estadísticas Docentes y de Desarrollo
